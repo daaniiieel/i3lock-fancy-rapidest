@@ -1,5 +1,6 @@
 # i3lock-fancy-rapidest
 The minimal, rapid, functional wrapper to i3lock-fancy-rapid
+![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
 #### Dependencies:
 * scrot
 * i3lock-fancy-rapid
