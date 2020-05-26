@@ -1,6 +1,5 @@
 <p align="center">
-<img alt="GitHub top language" src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png
-">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png">
  </p>
 <h1 align="center"> 
 i3block-fancy-rapidest
