@@ -2,8 +2,8 @@
 The minimal, rapid, functional wrapper to i3lock-fancy-rapid
 #### Dependencies:
 * scrot
-* i3block-fancy-rapid
-
+* i3lock-fancy-rapid
+* i3lock-colors (needed for i3lock-fancy-rapid)
 #### One-Liner setup: 
 ```
 wget https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/i3lock-fancy-rapidest.sh && chmod +x i3lock-fancy-rapidest.sh && sudo mv i3lock-fancy-rapidest.sh /usr/bin/i3lock-fancy-rapidest
