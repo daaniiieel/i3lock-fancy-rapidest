@@ -2,7 +2,7 @@
 i3block-fancy-rapidest
 </h1>
 <p align="center">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daaniiieel/i3lock-fancy-rapidest?style=for-the-badge"><img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daaniiieel/i3lock-fancy-rapidest?style=for-the-badge"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge">
  </p>
  
 The minimal, rapid, functional wrapper to i3lock-fancy-rapid
