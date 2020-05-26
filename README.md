@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Screenshot" src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png" style="max-width:50%">
+<img alt="Screenshot" src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png" style="max-width:30%">
  </p>
 <h1 align="center"> 
 i3block-fancy-rapidest
