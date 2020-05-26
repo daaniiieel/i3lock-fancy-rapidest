@@ -1,7 +1,8 @@
-# i3lock-fancy-rapidest
-
-![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/daaniiieel/i3lock-fancy-rapidest?style=for-the-badge)
-
+<h1 align="center"> 
+i3block-fancy-rapidest
+</h1>
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daaniiieel/i3lock-fancy-rapidest?style=for-the-badge"><img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge">
+ 
 The minimal, rapid, functional wrapper to i3lock-fancy-rapid
 #### Dependencies:
 * scrot
