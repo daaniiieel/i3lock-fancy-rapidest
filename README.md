@@ -1,9 +1,10 @@
-<p align = "center"> <img src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png
-"></p>
+<p align="center">
+<img alt="GitHub top language" src="https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png
+">
+ </p>
 <h1 align="center"> 
 i3block-fancy-rapidest
 </h1>
-https://raw.githubusercontent.com/daaniiieel/i3lock-fancy-rapidest/master/.github/dark.png
 <p align="center">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/daaniiieel/i3lock-fancy-rapidest?style=for-the-badge"> <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge">
  </p>
